@@ -25,9 +25,9 @@ $ sudo ldconfig
 # 1.2 Compiling Tesseract
 
 First make sure that you have git installed on your machine. If not, you can install it by running:
-
+```sh
 $ sudo apt-get install git
-
+```
 Now clone Tesseract and build it.
 ```sh
 $ cd ~ 
